@@ -1,9 +1,20 @@
-# Lung and Colon Cancer Prediction using CNNs
+# Lung Cancer Prediction using CNN
 
-## Overview
+## Introduction
+Lung cancer is one of the most prevalent and deadly forms of cancer worldwide. Early detection is crucial for improving patient outcomes. This project aims to develop a deep learning model based on Convolutional Neural Networks (CNN) to accurately predict lung cancer from chest X-ray images.
 
-This repository contains the code and resources for a project implementing Convolutional Neural Networks (CNNs) to predict lung and colon cancer from medical images. The project aims to achieve high accuracy in cancer classification while exploring various CNN architecture techniques.
+## Dataset
+The dataset used in this project consists of chest X-ray images labeled as either "normal" or "lung cancer". The dataset is publicly available and can be downloaded from [dataset source].
 
-## Tools required:
-        ->Keras
-        ->Django
+## Dependencies
+- Python 3.7 or higher
+- TensorFlow 2.x
+- Keras
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+## Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/lung-cancer-prediction.git
