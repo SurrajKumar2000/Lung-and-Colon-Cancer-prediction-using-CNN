@@ -17,5 +17,4 @@ The dataset used in this project consists of chest X-ray images labeled as eithe
 ## Usage
 1. Clone the repository:
 ```bash
-
-git clone https://github.com/your-username/lung-cancer-prediction.git
+https://github.com/SurrajKumar2000/Lung-and-Colon-Cancer-prediction-using-CNN.git
