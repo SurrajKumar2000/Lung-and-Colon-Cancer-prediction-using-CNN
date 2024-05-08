@@ -16,5 +16,22 @@ The dataset used in this project consists of chest X-ray images labeled as eithe
 
 ## Usage
 1. Clone the repository:
-```bash
+
 https://github.com/SurrajKumar2000/Lung-and-Colon-Cancer-prediction-using-CNN.git
+
+## Preprocess the dataset:
+Split the dataset into training, validation, and test sets.
+Normalize the pixel values of the images.
+Augment the dataset to increase the diversity of the training samples.
+
+##Train the CNN model:
+Define the CNN architecture.
+Compile the model with appropriate loss function and optimizer.
+Train the model using the training and validation sets.
+Evaluate the model:
+Use the test set to evaluate the model's performance.
+Calculate metrics such as accuracy, precision, recall, and F1-score.
+
+##Make predictions:
+Use the trained model to predict lung cancer on new chest X-ray images.
+Visualize the predictions and compare them with the ground truth labels.
