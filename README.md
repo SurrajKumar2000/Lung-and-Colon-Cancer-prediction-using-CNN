@@ -1,4 +1,4 @@
-# Lung Cancer Prediction using CNN
+# Lung & Colon Cancer Prediction using CNN
 
 ## Introduction
 Lung cancer is one of the most prevalent and deadly forms of cancer worldwide. Early detection is crucial for improving patient outcomes. This project aims to develop a deep learning model based on Convolutional Neural Networks (CNN) to accurately predict lung cancer from chest X-ray images.
@@ -30,7 +30,7 @@ Split the dataset into training, validation, and test sets.
 Normalize the pixel values of the images.
 Augment the dataset to increase the diversity of the training samples.
 
-##Train the CNN model:
+## Train the CNN model:
 Define the CNN architecture.
 Compile the model with appropriate loss function and optimizer.
 Train the model using the training and validation sets.
@@ -38,6 +38,6 @@ Evaluate the model:
 Use the test set to evaluate the model's performance.
 Calculate metrics such as accuracy, precision, recall, and F1-score.
 
-##Make predictions:
-Use the trained model to predict lung cancer on new chest X-ray images.
+## Make predictions:
+Use the trained model to predict lung and colon cancer on new chest X-ray images.
 Visualize the predictions and compare them with the ground truth labels.
