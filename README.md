@@ -18,8 +18,13 @@ The dataset used in this project consists of chest X-ray images labeled as eithe
 1. Clone the repository:
 ```bash
 https://github.com/SurrajKumar2000/Lung-and-Colon-Cancer-prediction-using-CNN.git
+```
+2.Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-
+##
 ## Preprocess the dataset:
 Split the dataset into training, validation, and test sets.
 Normalize the pixel values of the images.
