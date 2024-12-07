@@ -7,12 +7,38 @@ Colon cancer is one of the most prevalent and deadly forms of cancer worldwide. 
 The dataset used in this project consists of chest X-ray images labeled as either "normal" or "lung cancer". The dataset is publicly available and can be downloaded from https://www.cancer.gov/types/lung
 
 ## Dependencies
-- Python 3.7 or higher
-- TensorFlow 2.x
-- Keras
-- NumPy
-- Matplotlib
-- Scikit-learn
+pyparsing                                         3.2.0
+python-dateutil                                   2.9.0.post0
+python3-openid                                    3.2.0
+pyttsx3                                           2.98
+pytz                                              2024.2
+requests                                          2.32.3
+requests-oauthlib                                 2.0.0
+rsa                                               4.9
+scikit-learn                                      1.5.2
+scipy                                             1.13.1
+seaborn                                           0.13.2
+setuptools                                        75.1.0
+six                                               1.17.0
+social-auth-app-django                            5.4.2
+social-auth-core                                  4.5.4
+sqlparse                                          0.5.2
+tensorboard                                       2.15.2
+tensorboard-data-server                           0.7.2
+tensorflow                                        2.15.0
+tensorflow-estimator                              2.15.0
+tensorflow-io-gcs-filesystem                      0.37.1
+tensorflow-macos                                  2.15.0
+termcolor                                         2.5.0
+threadpoolctl                                     3.5.0
+typing_extensions                                 4.12.2
+tzdata                                            2024.2
+urllib3                                           2.2.3
+Werkzeug                                          3.1.3
+wheel                                             0.44.0
+wrapt                                             1.14.1
+zipp                                              3.21.0
+
 
 ## Usage
 1. Clone the repository:
