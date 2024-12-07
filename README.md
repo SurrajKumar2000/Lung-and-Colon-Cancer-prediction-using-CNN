@@ -1,7 +1,7 @@
-# Lung & Colon Cancer Prediction using CNN
+# Colon Cancer Prediction using CNN
 
 ## Introduction
-Lung cancer is one of the most prevalent and deadly forms of cancer worldwide. Early detection is crucial for improving patient outcomes. This project aims to develop a deep learning model based on Convolutional Neural Networks (CNN) to accurately predict lung cancer from chest X-ray images.
+Colon cancer is one of the most prevalent and deadly forms of cancer worldwide. Early detection is crucial for improving patient outcomes. This project aims to develop a deep learning model based on Convolutional Neural Networks (CNN) to accurately predict lung cancer from chest X-ray images.
 
 ## Dataset
 The dataset used in this project consists of chest X-ray images labeled as either "normal" or "lung cancer". The dataset is publicly available and can be downloaded from https://www.cancer.gov/types/lung
