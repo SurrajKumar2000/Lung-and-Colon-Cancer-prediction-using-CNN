@@ -61,10 +61,10 @@ Once the server is running, open your web browser and navigate to the following 
 You can watch the video demonstration of this project by clicking the link below:
 ## Colorectal Cancer Detection Project Video
 
-[![Watch the video](assets/project_thumbnail.png)](https://drive.google.com/file/d/1PKJarLq-zqrVOyFmWS4sWzAYnttvJOtu/preview)
 
 
+https://github.com/user-attachments/assets/c325b158-329a-44ff-9ba7-8316df111d44
 
-Uploading bandicam 2024-12-14 05-13-44-316.mp4…
+
 
 
