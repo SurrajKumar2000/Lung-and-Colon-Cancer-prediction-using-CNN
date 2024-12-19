@@ -59,8 +59,6 @@ Once the server is running, open your web browser and navigate to the following 
 7. ## Colorectal Cancer Detection Project Video
 
 You can watch the video demonstration of this project by clicking the link below:
-## Colorectal Cancer Detection Project Video
-
 
 
 https://github.com/user-attachments/assets/57e7b4fe-5f4e-429c-a3c4-6c4ac7fd96b3
