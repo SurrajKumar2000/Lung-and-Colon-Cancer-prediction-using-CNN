@@ -32,8 +32,8 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SurrajKumar2000/Colorectal-Cancer-Detection-CNN-method.git
-   cd Colorectal-Cancer-Detection-CNN-method
+   git clone https://github.com/SurrajKumar2000/Lung-and-Colon-Cancer-prediction-using-CNN.git
+   
    
 2. **Create and Activate a Virtual Environment**:
 Use Conda to create a virtual environment and activate it:
